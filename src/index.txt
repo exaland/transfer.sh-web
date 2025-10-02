@@ -1,6 +1,6 @@
 {{.Hostname}}: Easy file sharing from the command line 
 ===
-made with <3 by DutchCoders 
+made with <3 by Exaland 
 
 Upload:
 $ curl --upload-file ./hello.txt {{.WebAddress}}hello.txt
