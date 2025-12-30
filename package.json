@@ -4,6 +4,9 @@
   "dependencies": {
     "wiredep": "^4.0.0"
   },
+  "scripts": {
+    "build": "grunt build"
+  },
   "devDependencies": {
     "grunt": ">=1.0.0",
     "grunt-concurrent": "~1.0.0",
