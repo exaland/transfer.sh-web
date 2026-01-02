@@ -6259,6 +6259,13 @@ a:hover {
   font-size: 13px;
   min-height: 230px;
 }
+#buymecoffee {
+  text-align: center;
+  padding: 50px 0;
+}
+#buymecoffee a {
+  display: inline-block;
+}
 #share {
   text-align: center;
   background: #85b5bb;
